@@ -2,7 +2,7 @@
 
 #This project is an exploratory analysis of sales data using SQL in Google BigQuery. Data visualisated and dashboards produced in Tableau. 
 
-##🍕🍕🍕 The dataset is from the Maven Analytics Pizza Challenge. A year's worth of sales from a fictitious pizza place.
+## 🍕🍕🍕 The dataset is from the Maven Analytics Pizza Challenge. A year's worth of sales from a fictitious pizza place.
 
 'For the Maven Pizza Challenge, you’ll be playing the role of a BI Consultant hired by Plato's Pizza, a Greek-inspired pizza place in New Jersey. You've been hired to help the restaurant use data to improve operations, and just received the following note:'
 
