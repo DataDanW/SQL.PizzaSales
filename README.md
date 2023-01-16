@@ -1,6 +1,7 @@
-# SQL.PizzaSales
+# SQL.PizzaSales Analysis
 
 #This project is an exploratory analysis of sales data using SQL in Google BigQuery. Data visualisated and dashboards produced in Tableau. 
+
 
 ## 🍕🍕🍕 The dataset is from the Maven Analytics Pizza Challenge. A year's worth of sales from a fictitious pizza place.
 
