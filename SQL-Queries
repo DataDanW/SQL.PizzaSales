@@ -1,4 +1,4 @@
--- Annual revenue?
+'''SQL-- Annual revenue?
 SELECT ROUND(SUM(Total_Price),0) AS Total_Revenue
 FROM (
   SELECT a.order_details_id, a.pizza_id, a.quantity, b.price,
@@ -8,7 +8,7 @@ FROM (
   ON a.pizza_id = b.pizza_id
   ORDER BY a.order_id, a.order_details_id);
   -- $817,860
-  
+  '''
 
   --How many orders were placed in 2015?
 SELECT COUNT(order_id) AS Total_Orders
