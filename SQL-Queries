@@ -1,4 +1,4 @@
-##  🚨 SQL code written in BigQuery. Apologies for the lack of syntx highlighting. Big query does not support downloads of .sql files so i had to opt for a copy and paste into GITHUB.
+##  🚨 SQL code written in BigQuery
 
 --Annual revenue?
 SELECT ROUND(SUM(Total_Price),0) AS Total_Revenue
